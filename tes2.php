@@ -1,6 +1,8 @@
 <?php
 
 //ok
+echo "aaaaa";
+echo "<br>";
 
 $my_list = array(3,4,6,10,11,15);
 $alisa_list = array(1,5,8,12,14,19);
